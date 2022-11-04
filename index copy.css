@@ -18,7 +18,7 @@ body{
     align-items: center;
     height: 70px;
     padding: 15px;
-    overflow: scroll;
+    overflow:hidden;
 }
 
 .header i{
