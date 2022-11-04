@@ -18,7 +18,9 @@ body{
     align-items: center;
     height: 70px;
     padding: 15px;
+    overflow: scroll;
 }
+
 .header i{
     padding: 0px 15px;
     cursor: pointer;
